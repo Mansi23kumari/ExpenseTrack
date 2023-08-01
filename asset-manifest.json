@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ExpenseTrack/static/css/main.bd10d5d0.css",
+    "main.js": "/ExpenseTrack/static/js/main.9744e009.js",
+    "index.html": "/ExpenseTrack/index.html",
+    "main.bd10d5d0.css.map": "/ExpenseTrack/static/css/main.bd10d5d0.css.map",
+    "main.9744e009.js.map": "/ExpenseTrack/static/js/main.9744e009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd10d5d0.css",
+    "static/js/main.9744e009.js"
+  ]
+}
